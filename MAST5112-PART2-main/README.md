@@ -21,4 +21,5 @@ Christoffel's Culinary Creations is a React Native mobile application designed t
 - JSX
 - Stylesheets
 ## Youtube Link:
-https://youtu.be/g2b3LgRhYfc 
+https://github.com/st10447475/mast5112-part-2-st10447475.git
+
